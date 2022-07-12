@@ -1,0 +1,2 @@
+# spring-boot-rocketmq
+SpringBoot整合rocketmq实现其各种消息类型的消息发送与接收
